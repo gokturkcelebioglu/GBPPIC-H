@@ -1,4 +1,4 @@
-# GBPPIC-H Thesis Solver
+# GBPPIC-H
 
 Python implementation for a Master's thesis on the **Generalized Bin Packing
 Problem under Category Incompatibilities and Heterogeneous Bins (GBPPIC-H)**.
