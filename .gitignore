@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.venv/
+venv/
+env/
+
+# Tooling caches
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Solver and experiment outputs
+results.xlsx
+results/
+cplex_work/
+*.lp
+*.log
+*.mps
+*.nl
+*.sol
+*.tmp
+
+# Local environment files
+.env
+.env.*
+!.env.example
